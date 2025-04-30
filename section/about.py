@@ -14,3 +14,11 @@ def show():
 
         The system aims to support data-driven decisions for sustainable environmental planning and climate resilience in Nepal.
         """)
+    st.subheader("Contributor")
+    st.markdown("""
+        - Sarvesh Chhetri  
+        (Omdena’s & NIC Capacity Building Batch II)
+        """)
+
+    st.subheader("!!! Disclaimer")
+    st.write("This project is for educational and research purposes only.")

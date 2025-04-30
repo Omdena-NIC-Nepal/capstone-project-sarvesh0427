@@ -26,14 +26,6 @@ elif selected == "Model train and Evaluation":
     from section import model_train
     model_train.model_train_and_evaluate()
 
-st.markdown("Contributor")
-st.markdown("""
-    - Sarvesh Chhetri  
-    - Omdena’s & NIC Capacity Building Batch II
-    """)
-
-st.markdown("Disclaimer")
-st.write("This tool is for educational and research purposes only.")
 
 # footer
 st.markdown("---")
