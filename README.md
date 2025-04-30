@@ -1,3 +1,8 @@
+## Live Demo
+
+Check out the live Streamlit app here:  
+[Omdena-NIC Nepal Capstone Project Dashboard](https://omdena-nic-nepal-capstone-project-sarvesh0427-app-pad4t6.streamlit.app/)
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ba0L0ar_)
 ﻿# Project Title: Climate Change Impact Assessment and Prediction System for Nepal
 
