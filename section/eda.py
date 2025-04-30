@@ -10,7 +10,7 @@ def climate_show():
     st.subheader('Climate and Weather data trend of Nepal')
     # Load data
     df = pd.read_csv(
-        "data\weatherandclimatedata\combined_data.csv")
+        "data/weatherandclimatedata/combined_data.csv")
 
     # Set style
     sns.set(style="whitegrid")
@@ -75,7 +75,7 @@ def env_show():
 
 def socio_show():
     st.subheader("Socio-Economic data visualization of Nepal")
-    sco_eco_df = pd.read_csv('data\socioeconomicdata\eco-socio-env-health-edu-dev-energy_npl.csv')
+    sco_eco_df = pd.read_csv('data/socioeconomicdata/eco-socio-env-health-edu-dev-energy_npl.csv')
     # Basic summary statistics for 'Value'
     summary_stats = sco_eco_df['Value'].describe()
     # Count of each unique indicator
